@@ -3,7 +3,7 @@
 ## Information:
 
 - The main project is in ActualCoursework\src
-- If you would like to view it in jar format as an artifact: Go here in this file ActualCoursework/out/artifacts/ActualCoursework_jar. You will need to download the .txt files for it use the database in the program which are also in that file
+- If you would like to view it in jar format as an artifact: Follow this path: ActualCoursework/out/artifacts/ActualCoursework_jar. You will need to download the .txt files for it use the database in the program which are also in that file
 
 - This folder contains 3 other folders which contain the code
 - In the ActualCoursework folder, there are two .txt files and these are used as the stock database and to store admin credentials
